@@ -1,0 +1,25 @@
+        h1,h2,h3,h4 {
+            color: green;
+            font-size: 30px;
+        }
+        h1{
+            color:rgb(197, 72, 26);
+        }
+        h2{
+            color: blue;
+        }
+       .important{
+        color: rgb(91, 177, 226);
+        background-color: purple;
+       }
+       .uppercase{
+        text-transform: uppercase;
+        color: orange;
+        background-color: black;
+       }
+       #the-one{
+        color:blue;
+       }
+       #mr-jones{
+        color: burlywood;
+       }
